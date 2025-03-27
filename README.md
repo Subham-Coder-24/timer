@@ -25,7 +25,7 @@ A simple timer app with customizable timers, categories, and progress tracking.
 
 |                Timer List                 |               History               |          Completion Modal           |
 | :---------------------------------------: | :---------------------------------: | :---------------------------------: |
-| ![](assets/screenshots/categoryTimer.png) | ![](assets/screenshots/history.png) | ![](assets/screenshots/history.png) |
+| ![](assets/screenshots/categoryTimer.png) | ![](assets/screenshots/history.png) | ![](assets/screenshots/model.png) |
 
 ## Installation
 
