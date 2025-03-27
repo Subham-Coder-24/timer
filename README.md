@@ -36,7 +36,7 @@ A simple timer app with customizable timers, categories, and progress tracking.
     ```
 2. **Run the App**
     ```sh
-    expo start
+    npm start
     ```
 
 ## APK Installation
